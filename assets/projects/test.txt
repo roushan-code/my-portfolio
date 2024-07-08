@@ -1,0 +1,27 @@
+.heading {
+    font-size: 37px;
+}
+.hi {
+    font-size: 20px;
+}
+.me{
+    font-size: 36px;
+}
+.dynamic-text {
+    height: 54px;
+}
+.dynamic-text li {
+    font-size: 34.5px;
+}
+.p1{
+font-size: 19px;
+}
+img className .img1{
+width: 46px
+}
+.texth {
+    font-size: 26px;
+}
+.textp {
+    font-size: 18px;
+}

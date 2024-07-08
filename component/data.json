@@ -1,0 +1,46 @@
+{
+    "projects":[
+        {
+            "name":"Game WebApp",
+            "description":"Tech Stack: ReactJS, GSAP, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207587/samples/landscapes/qfgixsmuzbu28teqbn41.png",
+            "gitHubLink": "https://github.com/roushan-code/webGame-App",
+            "previewLink": "https://reactone-wine-nu.vercel.app/"
+        },
+        {
+            "name":"MBA Chai",
+            "description":"Tech Stack: React, javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720208117/samples/landscapes/ilgujvsfi9nsdgsseh1i.png",
+            "gitHubLink": "https://github.com/roushan-code/MBA-Chai",
+            "previewLink": "https://mba-chai-eight.vercel.app/"
+        },
+        {
+            "name":"Netflix-clone",
+            "description":"Tech Stack: React, javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720208895/samples/landscapes/jqn0lygl2rtkhnctgdkm.png",
+            "gitHubLink": "https://github.com/roushan-code/netflix-clone-web",
+            "previewLink": "https://netflix-copy-to-learn.vercel.app/"
+        },
+        {
+            "name":"Ecommerce(LoadingTime: 35-40s)",
+            "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720209288/samples/landscapes/dzp8nefcu7lvisly1hh6.png",
+            "gitHubLink": "https://github.com/roushan-code/Mern-Stack-Ecommerce-with-Redux",
+            "previewLink": "https://mern-stack-ecommerce-with-redux.onrender.com/"
+        },
+        {
+            "name":"Crypto Web",
+            "description":"Tech Stack: React, javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720209123/samples/landscapes/nnhwf0gzo2vioc16mw38.png",
+            "gitHubLink": "https://github.com/roushan-code/crypto-web-app",
+            "previewLink": "https://crypto-web-app-lac.vercel.app/"
+        },
+        {
+            "name":"Electric Vehicle",
+            "description":"Tech Stack: React, javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207566/samples/landscapes/yhlz02ym2eofjpks3gt3.png",
+            "gitHubLink": "https://github.com/roushan-code/electric-vehical-web",
+            "previewLink": "https://electric-vehical-web.vercel.app/"
+        }
+    ]
+}
