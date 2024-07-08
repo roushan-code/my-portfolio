@@ -8,6 +8,13 @@
             "previewLink": "https://reactone-wine-nu.vercel.app/"
         },
         {
+            "name":"My Portfolio",
+            "description":"Tech Stack: ReactJS, GSAP, HTML, CSS, emailjs",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720462423/samples/landscapes/usiaclssjvknr2ftywuw.png",
+            "gitHubLink": "https://github.com/roushan-code/my-portfolio",
+            "previewLink": "https://my-portfolio-alpha-liard-41.vercel.app/"
+        },
+        {
             "name":"MBA Chai",
             "description":"Tech Stack: React, javaScript, HTML, CSS",
             "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720208117/samples/landscapes/ilgujvsfi9nsdgsseh1i.png",
@@ -29,15 +36,29 @@
             "previewLink": "https://mern-stack-ecommerce-with-redux.onrender.com/"
         },
         {
+            "name":"Video Lecture/Course",
+            "description":"Tech Stack:  React, javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720460636/samples/landscapes/myqxutjgy1icecyrijyl.png",
+            "gitHubLink": "https://github.com/roushan-code/video-course-lecture",
+            "previewLink": "https://video-course-lecture.vercel.app/"
+        },
+        {
+            "name":"Future of Education",
+            "description":"Tech Stack: HTML, CSS, JavaScript ",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720464962/samples/landscapes/xnohtadxfyyt7blrosez.png",
+            "gitHubLink": "https://github.com/roushan-code/Future-of-Education",
+            "previewLink": "https://future-of-education.vercel.app/"
+        },
+        {
             "name":"Netflix-clone",
-            "description":"Tech Stack: React, javaScript, HTML, CSS (* Not Responsive for mobile)",
+            "description":"Tech Stack: React, javaScript, API use,  HTML, CSS (* Not Mobile Friendly)",
             "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720208895/samples/landscapes/jqn0lygl2rtkhnctgdkm.png",
             "gitHubLink": "https://github.com/roushan-code/netflix-clone-web",
             "previewLink": "https://netflix-copy-to-learn.vercel.app/"
         },
         {
             "name":"Electric Vehicle",
-            "description":"Tech Stack: React, javaScript, HTML, CSS (* Not Responsive for mobile)",
+            "description":"Tech Stack: React, javaScript, HTML, CSS (* Not Mobile Friendly)",
             "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207566/samples/landscapes/yhlz02ym2eofjpks3gt3.png",
             "gitHubLink": "https://github.com/roushan-code/electric-vehical-web",
             "previewLink": "https://electric-vehical-web.vercel.app/"

@@ -1,0 +1,7 @@
+{
+            "name":"Electric Vehicle",
+            "description":"Tech Stack: React, javaScript, HTML, CSS (* Not Mobile Friendly)",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207566/samples/landscapes/yhlz02ym2eofjpks3gt3.png",
+            "gitHubLink": "https://github.com/roushan-code/electric-vehical-web",
+            "previewLink": "https://electric-vehical-web.vercel.app/"
+        }
