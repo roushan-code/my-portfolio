@@ -94,6 +94,9 @@ h4{
 }
 @media only screen and (max-width: 776px) {
     .skill-item {
-    width: 36vw;
+    width: 42vw;
+}
+.skill-item::before{
+    right: 32px;
 }
 }
