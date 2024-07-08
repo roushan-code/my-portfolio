@@ -260,6 +260,13 @@
 }
 
 @media only screen and (max-width: 1054px) {
+  .content {
+    padding: 0 15px;
+  }
+  .my-info {
+    padding: 21px 16px;
+    
+}
   .my-box {
     flex-direction: column-reverse;
     gap: 0vw;
