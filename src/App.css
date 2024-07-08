@@ -15,7 +15,7 @@
 }
 
 .main-box {
-  max-width: 85vw;
+  max-width: 90vw;
   margin-inline: auto;
   margin-top: 60px;
   margin-bottom: 60px;
@@ -135,6 +135,12 @@
   .activate {
     color: var(--orange-yellow-crayola);
   }
+}
+
+@media only screen and (max-width: 776px) {
+  .main-box {
+    max-width: 95vw;
+    }
 }
 
 @media only screen and (max-width: 482px) {

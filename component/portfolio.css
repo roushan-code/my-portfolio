@@ -1,12 +1,18 @@
 .card-wrapper{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    width: 100%;
+    justify-content: center;
 }
 .card {
-    width: 299px;
+    width: 312px;
+    display: flex;
+    flex-wrap: wrap;
     padding: 13px;
     animation: sacleUp 0.5s ease-out;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
 }
 .para{
     padding-left: 21px;
@@ -83,6 +89,11 @@
     animation: appear 0.3s ease-in-out;
 }
 
+.img-wrapper {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    }
 
 @keyframes appear {
     0% {
@@ -95,13 +106,20 @@
 }
 @media only screen and (max-width: 482px) {
 
-    .card-img-hover {
-        width: 57vw;
-    }
-    .img-wrapper {
-        width: 57vw;
-    }
+    
     .card-title {
         font-size: 4vw;
+    }
+}
+@media only screen and (max-width: 358px) {
+    .card {
+        width: 100vw;
+        padding: 13px 0px;
+    }
+    .card-img-hover{
+    width: 77vw;
+    }
+    .img-wrapper{
+    width: 77vw;
     }
 }
