@@ -145,6 +145,9 @@
 .texth {
   font-size: 23px;
 }
+.p1{
+  font-size: 15px;
+}
 
 .textp {
   font-size: 15px;
@@ -239,7 +242,7 @@
   }
 
   .p1 {
-    font-size: 19px;
+    font-size: 18px;
   }
 
   .content1 {
