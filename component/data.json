@@ -29,7 +29,7 @@
             "previewLink": "https://crypto-web-app-lac.vercel.app/"
         },
         {
-            "name":"Ecommerce",
+            "name":"Ecommerce(loadingTime- 30-40s)",
             "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, HTML, CSS",
             "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720209288/samples/landscapes/dzp8nefcu7lvisly1hh6.png",
             "gitHubLink": "https://github.com/roushan-code/Mern-Stack-Ecommerce-with-Redux",
