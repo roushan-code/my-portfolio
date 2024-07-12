@@ -31,9 +31,9 @@
         {
             "name":"Ecommerce(loadingTime- 30-40s)",
             "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, HTML, CSS",
-            "imgLink": "https://test-front2.onrender.com/",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207563/samples/landscapes/rrbqsphqbfyysi3yfqtf.png",
             "gitHubLink": "https://github.com/roushan-code/Mern-Stack-Ecommerce-with-Redux",
-            "previewLink": "https://mern-stack-ecommerce-with-redux.onrender.com/"
+            "previewLink": "https://test-front2.onrender.com/"
         },
         {
             "name":"Video Lecture/Course",
