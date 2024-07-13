@@ -22,18 +22,18 @@
             "previewLink": "https://mba-chai-eight.vercel.app/"
         },
         {
-            "name":"Crypto Web",
-            "description":"Tech Stack: React, javaScript, HTML, CSS",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720447758/samples/landscapes/gcapiv6rcpqg1txauhjo.png",
-            "gitHubLink": "https://github.com/roushan-code/crypto-web-app",
-            "previewLink": "https://crypto-web-app-lac.vercel.app/"
-        },
-        {
             "name":"Ecommerce",
             "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, HTML, CSS",
             "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207563/samples/landscapes/rrbqsphqbfyysi3yfqtf.png",
             "gitHubLink": "https://github.com/roushan-code/Mern-Stack-Ecommerce-with-Redux",
             "previewLink": "https://test-front-silk.vercel.app/"
+        },
+        {
+            "name":"Crypto Web",
+            "description":"Tech Stack: React, javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720447758/samples/landscapes/gcapiv6rcpqg1txauhjo.png",
+            "gitHubLink": "https://github.com/roushan-code/crypto-web-app",
+            "previewLink": "https://crypto-web-app-lac.vercel.app/"
         },
         {
             "name":"Video Lecture/Course",
@@ -55,6 +55,13 @@
             "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720208895/samples/landscapes/jqn0lygl2rtkhnctgdkm.png",
             "gitHubLink": "https://github.com/roushan-code/netflix-clone-web",
             "previewLink": "https://netflix-copy-to-learn.vercel.app/"
+        },
+        {
+            "name":"Weather App",
+            "description":"Tech Stack: javaScript, API use,  HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720870630/samples/landscapes/ksdifqfjhmznyp6clhmq.png",
+            "gitHubLink": "https://github.com/roushan-code/Weather-app",
+            "previewLink": "https://weather-app-theta-steel-15.vercel.app/"
         },
         {
             "name":"Electric Vehicle",
