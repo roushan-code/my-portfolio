@@ -64,7 +64,7 @@ const Resume = () => {
 
                                 <h4 className="h4 timeline-item-title">High School</h4>
 
-                                <span>2019 — 2021</span>
+                                <span>2020 — 2021</span>
 
                                 <p className="timeline-text para-animation">
                                     Sheoraphuli Vivekananda High School, Sheoraphuli, Hooghly(WB)
@@ -76,7 +76,7 @@ const Resume = () => {
 
                                 <h4 className="h4 timeline-item-title">School</h4>
 
-                                <span>2002 — 2004</span>
+                                <span>2014 — 2019</span>
 
                                 <p className="timeline-text para-animation">
                                     Rishra Vidyapith (Unit-II) High School, Rishra, Hooghly, WB
