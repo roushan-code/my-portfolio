@@ -8,11 +8,11 @@
             "previewLink": "https://reactone-wine-nu.vercel.app/"
         },
         {
-            "name":"My Portfolio",
-            "description":"Tech Stack: ReactJS, GSAP, HTML, CSS, emailjs",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720462423/samples/landscapes/usiaclssjvknr2ftywuw.png",
-            "gitHubLink": "https://github.com/roushan-code/my-portfolio",
-            "previewLink": "https://my-portfolio-alpha-liard-41.vercel.app/"
+            "name":"Ecommerce",
+            "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1719837055/samples/a0mgodgaymzscyemhdan.png",
+            "gitHubLink": "https://github.com/roushan-code/Mern-Stack-Ecommerce-with-Redux",
+            "previewLink": "https://test-front-silk.vercel.app/"
         },
         {
             "name":"MBA Chai",
@@ -22,11 +22,11 @@
             "previewLink": "https://mba-chai-eight.vercel.app/"
         },
         {
-            "name":"Ecommerce",
-            "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, HTML, CSS",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207563/samples/landscapes/rrbqsphqbfyysi3yfqtf.png",
-            "gitHubLink": "https://github.com/roushan-code/Mern-Stack-Ecommerce-with-Redux",
-            "previewLink": "https://test-front-silk.vercel.app/"
+            "name":"My Portfolio",
+            "description":"Tech Stack: ReactJS, GSAP, HTML, CSS, emailjs",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720462423/samples/landscapes/usiaclssjvknr2ftywuw.png",
+            "gitHubLink": "https://github.com/roushan-code/my-portfolio",
+            "previewLink": "https://my-portfolio-alpha-liard-41.vercel.app/"
         },
         {
             "name":"Crypto Web",
