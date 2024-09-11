@@ -111,8 +111,8 @@ const Sidebar = () => {
         <ul className="social-list">
 
           <li className="social-item">
-            <a href="https://www.facebook.com/profile.php?id=100032073308149" className="social-link">
-              <ion-icon name="logo-facebook"></ion-icon>
+            <a href="https://github.com/roushan-code" className="social-link">
+              <ion-icon name="logo-github"></ion-icon>
             </a>
           </li>
 
@@ -123,8 +123,8 @@ const Sidebar = () => {
           </li>
 
           <li className="social-item">
-            <a href="https://www.instagram.com/roushansingh3698/" className="social-link">
-              <ion-icon name="logo-instagram"></ion-icon>
+            <a href="https://www.linkedin.com/in/roushan-singh-645819236/" className="social-link">
+              <ion-icon name="logo-linkedin"></ion-icon>
             </a>
           </li>
 

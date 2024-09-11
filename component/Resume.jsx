@@ -84,7 +84,7 @@ const Resume = () => {
                             </li>
                         </ol>
                     </div>
-                    <button className='resume-btn' ><a href="https://drive.google.com/file/d/1-mZYiUkk6iC2VrQ0fFWadQWYFm8JtWAG/view?usp=drive_link">Resume</a></button>
+                    <button className='resume-btn' ><a href="https://drive.google.com/file/d/1MzAYSJ4k3ybThTgb-AFy0jiGOLQN3eXb/view?usp=drive_link">Resume</a></button>
                     <h1 >My Skills</h1>
 
                     <div className='skills'>

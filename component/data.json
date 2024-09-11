@@ -9,10 +9,17 @@
         },
         {
             "name":"Ecommerce",
-            "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, HTML, CSS",
+            "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, Redux, HTML, CSS",
             "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207563/samples/landscapes/rrbqsphqbfyysi3yfqtf.png",
             "gitHubLink": "https://github.com/roushan-code/Mern-Stack-Ecommerce-with-Redux",
             "previewLink": "https://test-front-silk.vercel.app/"
+        },
+        {
+            "name":"Chat App",
+            "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, Redux, RTK Query, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/dpr_auto/w_700/v1726027085/samples/landscapes/wiujyjhfj075zzyyi46d.png",
+            "gitHubLink": "https://github.com/roushan-code/Chat-App-Frontend",
+            "previewLink": "https://chat-app-frontend-usr3.vercel.app/"
         },
         {
             "name":"MBA Chai",
