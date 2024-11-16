@@ -8,6 +8,13 @@
             "previewLink": "https://reactone-wine-nu.vercel.app/"
         },
         {
+            "name":"Apple iPhone",
+            "description":"Tech Stack: ReactJS, GSAP, HTML, CSS, Threejs",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1731746877/samples/landscapes/hbcnskco2hyppdgk4scp.png",
+            "gitHubLink": "https://github.com/roushan-code/Apple_3D",
+            "previewLink": "https://apple-3-d-two.vercel.app/"
+        },
+        {
             "name":"Ecommerce",
             "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, Redux, HTML, CSS",
             "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207563/samples/landscapes/rrbqsphqbfyysi3yfqtf.png",
