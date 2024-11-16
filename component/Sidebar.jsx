@@ -61,14 +61,14 @@ const Sidebar = () => {
             <li className="contact-item">
 
               <div className="icon-box">
-                <ion-icon name="phone-portrait-outline"></ion-icon>
+                <ion-icon name="logo-instagram"></ion-icon>
                 {/* <ion-icon name="logo-linkedin"></ion-icon> */}
               </div>
 
               <div className="contact-info">
-                <p className="contact-title">Phone</p>
+                <p className="contact-title">Instagram</p>
 
-                <a href="tel:+919007917120" className="info-link">+91 9007917120</a>
+                <a href="https://www.instagram.com/roushansingh3698/" className="info-link">roushansingh</a>
               </div>
 
             </li>
