@@ -84,7 +84,7 @@ const Resume = () => {
                             </li>
                         </ol>
                     </div>
-                    <button className='resume-btn' ><a href="https://drive.google.com/file/d/1MzAYSJ4k3ybThTgb-AFy0jiGOLQN3eXb/view?usp=drive_link">Resume</a></button>
+                    <button className='resume-btn' ><a href="https://res.cloudinary.com/ddxwcwxhl/raw/upload/v1732545834/me/wordResume.docx">Resume</a></button>
                     <h1 >My Skills</h1>
 
                     <div className='skills'>

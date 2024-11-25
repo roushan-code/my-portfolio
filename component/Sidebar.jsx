@@ -33,7 +33,7 @@ const Sidebar = () => {
         </div>
         <div className='intro'>
           <h1 className='name'>Roushan Singh</h1>
-          <p className='passion'>Web Developer</p>
+          <p className='passion'>Full Stack Developer</p>
         </div>
       </div>
 
