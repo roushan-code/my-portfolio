@@ -78,13 +78,13 @@ const Sidebar = () => {
             <li className="contact-item">
 
               <div className="icon-box">
-                <ion-icon name="calendar-outline"></ion-icon>
+                <ion-icon name="logo-linkedin"></ion-icon>
               </div>
 
               <div className="contact-info">
-                <p className="contact-title">Birthday</p>
+                <p className="contact-title">Linkdine</p>
 
-                <time dateTime="2003-11-04" className="info-link">Nov 04, 2003</time>
+                <a href="https://www.linkedin.com/in/roushan-singh-645819236/" className="info-link">Roushan Singh</a>
               </div>
 
             </li>
@@ -98,7 +98,7 @@ const Sidebar = () => {
               <div className="contact-info">
                 <p className="contact-title">Location</p>
 
-                <address className="info-link">Sheoraphuli, Hooghly, WB, India</address>
+                <address className="info-link"> Hooghly, WB, India</address>
               </div>
 
             </li>
