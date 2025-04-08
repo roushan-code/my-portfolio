@@ -106,7 +106,7 @@ const About = () => {
             </div>
 
             <div className='my-lines'>
-              <p className='p1 para-animation'>I’m a passionate MERN Stack Developer currently pursuing my BCA (2nd year). My learning journey involves leveraging resources like YouTube, Google, and official documentation to master web frameworks such as React, JavaScript, Node.js, and MongoDB. I’m deeply interested in Full Stack Web Development and spend my time building responsive, user-friendly websites. To enhance my productivity and code quality, I also integrate AI tools into my workflow.
+              <p className='p1 para-animation'>I’m a passionate MERN Stack Developer currently pursuing my BCA (3rd year). My learning journey involves leveraging resources like YouTube, Google, and official documentation to master web frameworks such as React, JavaScript, Node.js, and MongoDB. I’m deeply interested in Full Stack Web Development and spend my time building responsive, user-friendly websites. To enhance my productivity and code quality, I also integrate AI tools into my workflow.
 
 Contributing to open-source projects is my next goal. I’m eager to gain hands-on experience in understanding diverse codebases, improving my problem-solving skills, and collaborating with a wider community.</p>
             </div>
