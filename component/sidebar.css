@@ -18,8 +18,13 @@
 
 
 .avatar-box img {
-  width: 168px;
+  width: 143px;
   border-radius: 14px;
+}
+@media only screen and (max-width: 1053px) {
+  .avatar-box img {
+    width: 154px;
+  }
 }
 
 
@@ -280,7 +285,7 @@
   }
 
   .avatar-box img {
-    width: 36vw;
+    width: 30vw;
   }
 
   .passion {

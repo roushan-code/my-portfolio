@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react'
 // import avatar from '../assets/my-bg-profile.png'
-import avatar from '../assets/me-filter-1.png'
+import avatar from '../assets/me.jpg'
 import './sidebar.css'
 
 const Sidebar = () => {
