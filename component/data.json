@@ -1,18 +1,11 @@
 {
     "projects":[
         {
-            "name":"Game WebApp",
-            "description":"Tech Stack: ReactJS, GSAP, HTML, CSS",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207587/samples/landscapes/qfgixsmuzbu28teqbn41.png",
-            "gitHubLink": "https://github.com/roushan-code/webGame-App",
-            "previewLink": "https://reactone-wine-nu.vercel.app/"
-        },
-        {
-            "name":"Apple iPhone",
-            "description":"Tech Stack: ReactJS, GSAP, HTML, CSS, Threejs",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1731746877/samples/landscapes/hbcnskco2hyppdgk4scp.png",
-            "gitHubLink": "https://github.com/roushan-code/Apple_3D",
-            "previewLink": "https://apple-3-d-two.vercel.app/"
+            "name":"Chat App",
+            "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, Redux, RTK Query, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/dpr_auto/w_700/v1726027085/samples/landscapes/wiujyjhfj075zzyyi46d.png",
+            "gitHubLink": "https://github.com/roushan-code/Chat-App-Frontend",
+            "previewLink": "https://chat-app-frontend-usr3.vercel.app/"
         },
         {
             "name":"Ecommerce",
@@ -22,18 +15,25 @@
             "previewLink": "https://test-front-silk.vercel.app/"
         },
         {
-            "name":"Chat App",
-            "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, Redux, RTK Query, HTML, CSS",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/dpr_auto/w_700/v1726027085/samples/landscapes/wiujyjhfj075zzyyi46d.png",
-            "gitHubLink": "https://github.com/roushan-code/Chat-App-Frontend",
-            "previewLink": "https://chat-app-frontend-usr3.vercel.app/"
+            "name":"Crypto Web",
+            "description":"Tech Stack: React, javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720447758/samples/landscapes/gcapiv6rcpqg1txauhjo.png",
+            "gitHubLink": "https://github.com/roushan-code/crypto-web-app",
+            "previewLink": "https://crypto-web-app-lac.vercel.app/"
         },
         {
-            "name":"MBA Chai",
-            "description":"Tech Stack: React, javaScript, HTML, CSS",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720208117/samples/landscapes/ilgujvsfi9nsdgsseh1i.png",
-            "gitHubLink": "https://github.com/roushan-code/MBA-Chai",
-            "previewLink": "https://mba-chai-eight.vercel.app/"
+            "name":"Apple iPhone",
+            "description":"Tech Stack: ReactJS, GSAP, HTML, CSS, Threejs",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1731746877/samples/landscapes/hbcnskco2hyppdgk4scp.png",
+            "gitHubLink": "https://github.com/roushan-code/Apple_3D",
+            "previewLink": "https://apple-3-d-two.vercel.app/"
+        },
+        {
+            "name":"Game WebApp",
+            "description":"Tech Stack: ReactJS, GSAP, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207587/samples/landscapes/qfgixsmuzbu28teqbn41.png",
+            "gitHubLink": "https://github.com/roushan-code/webGame-App",
+            "previewLink": "https://reactone-wine-nu.vercel.app/"
         },
         {
             "name":"My Portfolio",
@@ -43,11 +43,11 @@
             "previewLink": "https://my-portfolio-alpha-liard-41.vercel.app/"
         },
         {
-            "name":"Crypto Web",
+            "name":"MBA Chai",
             "description":"Tech Stack: React, javaScript, HTML, CSS",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720447758/samples/landscapes/gcapiv6rcpqg1txauhjo.png",
-            "gitHubLink": "https://github.com/roushan-code/crypto-web-app",
-            "previewLink": "https://crypto-web-app-lac.vercel.app/"
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720208117/samples/landscapes/ilgujvsfi9nsdgsseh1i.png",
+            "gitHubLink": "https://github.com/roushan-code/MBA-Chai",
+            "previewLink": "https://mba-chai-eight.vercel.app/"
         },
         {
             "name":"Video Lecture/Course",
@@ -84,5 +84,98 @@
             "gitHubLink": "https://github.com/roushan-code/electric-vehical-web",
             "previewLink": "https://electric-vehical-web.vercel.app/"
         }
+        ,{
+            "name":"Text to Speech",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1761545541/protfolio/Screenshot_2025-10-27_100213_yo55up.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/Text%20to%20Speech%20Converter",
+            "previewLink": "https://text-to-speech-0.netlify.app/"
+        }
+        ,{
+            "name":"Calculator",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1761545541/protfolio/Screenshot_2025-10-27_102759_quaglg.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/calculator",
+            "previewLink": "https://meek-chebakia-f3f778.netlify.app/"
+        }
+        ,{
+            "name":"Analog Clock",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1761545540/protfolio/Screenshot_2025-10-27_091248_ymuxhp.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/Analog%20Watch",
+            "previewLink": "https://analog-ghari.netlify.app/"
+        }
+        ,{
+            "name":"Image Gallery",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1761548359/protfolio/Screenshot_2025-10-27_122847_xmbpob.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/Image%20Gallery",
+            "previewLink": "https://img-gallary-0.netlify.app/"
+        }
+        ,{
+            "name":"Digital Watch",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1761545542/protfolio/Screenshot_2025-10-27_103148_xvgfen.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/Digital%20Clock",
+            "previewLink": "https://digi-ta-l-clock.netlify.app/"
+        }
+        ,{
+            "name":"Age Calculator",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1761545542/protfolio/Screenshot_2025-10-27_103336_h7e9bf.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/Age%20calculator",
+            "previewLink": "https://calculate-age-r.netlify.app/"
+        }
+        ,{
+            "name":"Mini Calendar",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1761545589/protfolio/Screenshot_2025-10-27_103549_x7lmhe.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/Mini%20Calender",
+            "previewLink": "https://mini-calender-0.netlify.app/"
+        }
+        ,{
+            "name":"Quiz App",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1761546080/protfolio/Screenshot_2025-10-27_115051_lkjx1p.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/Quiz",
+            "previewLink": "https://quiz-0.netlify.app/"
+        }
+        ,{
+            "name":"Text to QR Code Generator",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1761546268/protfolio/Screenshot_2025-10-27_115231_xsopzu.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/QR%20Code%20Generator",
+            "previewLink": "https://generate-qr-0.netlify.app"
+        }
+        ,{
+            "name":"Drag and Drop",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1761548357/protfolio/Screenshot_2025-10-27_122716_nq9vkf.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/drag%20and%20drop",
+            "previewLink": "https://drag-drop-0.netlify.app/"
+        }
+        ,{
+            "name":"Image Search Engine",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1761545590/protfolio/Screenshot_2025-10-27_104317_zgmcd6.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/Image%20Search%20Engine",
+            "previewLink": "https://img-search-engine-0.netlify.app/"
+        }
+        ,{
+            "name":"Search Bar",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1761545590/protfolio/Screenshot_2025-10-27_112019_dcefgr.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/Search%20Bar",
+            "previewLink": "https://search-bar-word.netlify.app/"
+        }
+        ,{
+            "name":"Toast Notification",
+            "description":"Tech Stack: javaScript, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1761545590/protfolio/Screenshot_2025-10-27_112154_nb9b8v.png",
+            "gitHubLink": "https://github.com/roushan-code/Project-30-JS/tree/main/Toast%20Notification%20or%20Snack%20Bar",
+            "previewLink": "https://snack-bar-0.netlify.app/"
+        }
+        
+
     ]
 }
