@@ -3,84 +3,84 @@
         {
             "name":"Ecommerce",
             "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, Redux, HTML, CSS",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207563/samples/landscapes/rrbqsphqbfyysi3yfqtf.png",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1752034000/samples/ai-generated-8261668_1280_mdblf8.jpg",
             "gitHubLink": "https://github.com/roushan-code/Mern-Stack-Ecommerce-with-Redux",
             "previewLink": "https://test-front-silk.vercel.app/"
         },
         {
             "name":"Crypto Web",
             "description":"Tech Stack: React, javaScript, HTML, CSS",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720447758/samples/landscapes/gcapiv6rcpqg1txauhjo.png",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1766667758/samples/Screenshot_2025-12-25_183150_h1cbqq.png",
             "gitHubLink": "https://github.com/roushan-code/crypto-web-app",
             "previewLink": "https://crypto-web-app-lac.vercel.app/"
         },
         {
             "name":"Chat App",
             "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, Redux, RTK Query, HTML, CSS",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/dpr_auto/w_700/v1726027085/samples/landscapes/wiujyjhfj075zzyyi46d.png",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1766668176/samples/Screenshot_2025-12-25_183908_jvpaju.png",
             "gitHubLink": "https://github.com/roushan-code/Chat-App-Frontend",
             "previewLink": "https://chat-app-frontend-usr3.vercel.app/"
         },
         {
             "name":"Apple iPhone",
             "description":"Tech Stack: ReactJS, GSAP, HTML, CSS, Threejs",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1731746877/samples/landscapes/hbcnskco2hyppdgk4scp.png",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1766668220/samples/Screenshot_2025-12-25_183957_rcytyz.png",
             "gitHubLink": "https://github.com/roushan-code/Apple_3D",
             "previewLink": "https://apple-3-d-two.vercel.app/"
         },
         {
             "name":"Game WebApp",
             "description":"Tech Stack: ReactJS, GSAP, HTML, CSS",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207587/samples/landscapes/qfgixsmuzbu28teqbn41.png",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1766669141/samples/Screenshot_2025-12-25_184044_ooqeso.png",
             "gitHubLink": "https://github.com/roushan-code/webGame-App",
             "previewLink": "https://reactone-wine-nu.vercel.app/"
         },
         {
             "name":"My Portfolio",
             "description":"Tech Stack: ReactJS, GSAP, HTML, CSS, emailjs",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720462423/samples/landscapes/usiaclssjvknr2ftywuw.png",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1766667860/samples/Screenshot_2025-12-25_183357_fvkia4.png",
             "gitHubLink": "https://github.com/roushan-code/my-portfolio",
             "previewLink": "https://my-portfolio-alpha-liard-41.vercel.app/"
         },
         {
             "name":"MBA Chai",
             "description":"Tech Stack: React, javaScript, HTML, CSS",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720208117/samples/landscapes/ilgujvsfi9nsdgsseh1i.png",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1766668612/samples/Screenshot_2025-12-25_184141_r22rhv.png",
             "gitHubLink": "https://github.com/roushan-code/MBA-Chai",
             "previewLink": "https://mba-chai-eight.vercel.app/"
         },
         {
             "name":"Video Lecture/Course",
             "description":"Tech Stack:  React, javaScript, Chakra ui",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720460636/samples/landscapes/myqxutjgy1icecyrijyl.png",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1766668614/samples/Screenshot_2025-12-25_184216_te78tc.png",
             "gitHubLink": "https://github.com/roushan-code/video-course-lecture",
             "previewLink": "https://video-course-lecture.vercel.app/"
         },
         {
             "name":"Future of Education",
             "description":"Tech Stack: HTML, CSS, JavaScript ",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720464962/samples/landscapes/xnohtadxfyyt7blrosez.png",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1766668616/samples/Screenshot_2025-12-25_184333_uqxwbg.png",
             "gitHubLink": "https://github.com/roushan-code/Future-of-Education",
             "previewLink": "https://future-of-education.vercel.app/"
         },
         {
             "name":"Netflix-clone",
             "description":"Tech Stack: React, javaScript, API use,  HTML, CSS (* Not Mobile Friendly)",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720208895/samples/landscapes/jqn0lygl2rtkhnctgdkm.png",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1766668618/samples/Screenshot_2025-12-25_184453_tzuwsz.png",
             "gitHubLink": "https://github.com/roushan-code/netflix-clone-web",
             "previewLink": "https://netflix-copy-to-learn.vercel.app/"
         },
         {
             "name":"Weather App",
             "description":"Tech Stack: javaScript, API use,  HTML, CSS",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720870630/samples/landscapes/ksdifqfjhmznyp6clhmq.png",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1766668619/samples/Screenshot_2025-12-25_184512_ytk6gx.png",
             "gitHubLink": "https://github.com/roushan-code/Weather-app",
             "previewLink": "https://weather-app-theta-steel-15.vercel.app/"
         },
         {
             "name":"Electric Vehicle",
             "description":"Tech Stack: React, javaScript, HTML, CSS (* Not Mobile Friendly)",
-            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/v1720207566/samples/landscapes/yhlz02ym2eofjpks3gt3.png",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1766668624/samples/Screenshot_2025-12-25_184620_djdbrh.png",
             "gitHubLink": "https://github.com/roushan-code/electric-vehical-web",
             "previewLink": "https://electric-vehical-web.vercel.app/"
         }
