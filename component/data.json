@@ -1,6 +1,13 @@
 {
     "projects":[
         {
+            "name":"AI Mock Interview Preperation",
+            "description":"Tech Stack: Node, Express, Mongodb, Cloudinary,  React, javaScript, Redux, HTML, CSS",
+            "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1766669743/samples/Screenshot_2025-12-25_190515_qzk8eo.png",
+            "gitHubLink": "https://github.com/roushan-code/AI_Mock-Interview_frontend",
+            "previewLink": "https://ai-mock-interview-frontend.vercel.app/"
+        },
+        {
             "name":"Ecommerce",
             "description":"Tech Stack: Node, Express, Mongodb, Cloudinary, Material UI, React, javaScript, Redux, HTML, CSS",
             "imgLink": "https://res.cloudinary.com/ddxwcwxhl/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1752034000/samples/ai-generated-8261668_1280_mdblf8.jpg",
